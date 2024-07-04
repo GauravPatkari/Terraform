@@ -1,2 +1,3 @@
 # Terraform_Cloud
-Reop regarding practice for Terraform Cloud Architecture 
+Repository
+regarding practice for Terraform Cloud Architecture 
