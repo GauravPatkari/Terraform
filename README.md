@@ -1,3 +1,2 @@
-# Terraform_Cloud
-Repository
-regarding practice for Terraform Cloud Architecture 
+#Terraform 
+AWS architecture using Terraform which is used as a IAAC tool in the industry
